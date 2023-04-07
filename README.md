@@ -7,4 +7,4 @@
 - 📧 How to reach me: iw.kolosov2016@yandex.ru
 
 #### GitHub Stats
-![](https://komarev.com/ghpvc/?username=Peter-developer01&style=for-the-badge&color=50adff) ![](https://img.shields.io/github/followers/Peter-developer01?logo=github&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=ivan-developer-01&style=for-the-badge&color=50adff) ![](https://img.shields.io/github/followers/ivan-developer-01?logo=github&style=for-the-badge)
