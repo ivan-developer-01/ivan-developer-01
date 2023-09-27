@@ -12,6 +12,9 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=ivan-developer-01)
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ivan-developer-01&theme=dark)](https://github.com/ryo-ma/github-profile-trophy/)
+
 [![My Stack](https://skillicons.dev/icons?i=js,html,css,php,linux,bash,py,replit,vscode,git,github,jquery&perline=4)](https://skillicons.dev "My Stack")
 
 ---
