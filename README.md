@@ -15,6 +15,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ivan-developer-01&theme=dark)](https://github.com/ryo-ma/github-profile-trophy/)
 
+[![streak](https://github-readme-streak-stats.herokuapp.com/?user=ivan-developer-01&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 [![My Stack](https://skillicons.dev/icons?i=js,html,css,php,linux,bash,py,replit,vscode,git,github,jquery&perline=4)](https://skillicons.dev "My Stack")
 
 ---
