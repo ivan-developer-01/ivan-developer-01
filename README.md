@@ -35,7 +35,7 @@
 
 #### Some self-gratitude:
 
-- I won some free courses from free events
+- I have won some free courses from free events
 - I have good communication skills and improving it every day
 - I am a fast learner
 - I am learning more or less stable
