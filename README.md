@@ -21,7 +21,7 @@
 
 ---
 
-## Metrics
+<h1>Metrics</h1>
 
 <details>
   <summary>
