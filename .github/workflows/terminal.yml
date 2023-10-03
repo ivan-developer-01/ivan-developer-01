@@ -1,11 +1,21 @@
-name: Generate terminal session
-uses: lowlighter/metrics@latest
+name: Generate terminal metrics
+
 on:
   push:
-    branches: main
+    branches: [ "main" ]
   workflow_dispatch:
-with:
-  template: terminal
-  filename: metrics.terminal.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: header, metadata
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate terminal session
+        uses: lowlighter/metrics@latest
+        with:
+          template: terminal
+          filename: metrics.terminal.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, metadata
