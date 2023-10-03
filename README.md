@@ -21,6 +21,14 @@
 
 ---
 
+#### Metrics
+
+<details>
+  <summary>Show metrics</summary>
+
+  ![metrics](github-metrics.svg)
+</details>
+
 #### Some self-gratitude:
 
 - I won some free courses from free events
