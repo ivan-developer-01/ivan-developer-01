@@ -5,7 +5,7 @@ on:
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
-  push: {branches: ["master", "main"]}
+  #push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -16,7 +16,6 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_activity: yes
-          plugin_skyline: yes
           plugin_reactions: yes
           plugin_achievements: yes
           plugin_isocalendar: yes
