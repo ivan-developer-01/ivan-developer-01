@@ -15,3 +15,24 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          plugin_skyline: yes
+          plugin_reactions: yes
+          plugin_achievements: yes
+          plugin_activity: yes
+          plugin_isocalendar: yes
+          plugin_lines: yes
+          plugin_topics: yes
+          plugin_topics_mode: icons
+          plugin_topics_sort: stars
+          plugin_topic_limit: 50
+          plugin_stars: yes
+          plugin_habits: yes
+          plugin_habits_days: 28
+          plugin_habits_charts: yes
+          plugin_followup: yes
+          plugin_followup_sections: user
+          plugin_reactions: yes
+          plugin_calendar: yes
+          plugin_achievements: yes
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
