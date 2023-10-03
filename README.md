@@ -21,13 +21,17 @@
 
 ---
 
-#### Metrics
+## Metrics
 
 <details>
-  <summary>Show metrics</summary>
+  <summary>
+    <b>Show metrics</b>
+  </summary>
 
   ![metrics](github-metrics.svg)
 </details>
+
+---
 
 #### Some self-gratitude:
 
