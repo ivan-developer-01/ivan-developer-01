@@ -21,9 +21,21 @@
 
 ---
 
+<h1>Metrics</h1>
+
+<details>
+  <summary>
+    <b>Show metrics</b>
+  </summary>
+
+  ![metrics](github-metrics.svg)
+</details>
+
+---
+
 #### Some self-gratitude:
 
-- I won some free courses from free events
+- I have won some free courses from free events
 - I have good communication skills and improving it every day
 - I am a fast learner
 - I am learning more or less stable
