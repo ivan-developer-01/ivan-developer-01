@@ -21,6 +21,15 @@
 
 ---
 
+### Contribution graph
+
+<picture>
+    <source srcset="https://raw.githubusercontent.com/ivan-developer-01/ivan-developer-01/output/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/ivan-developer-01/ivan-developer-01/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
 <h1>Metrics</h1>
 
 <details>
