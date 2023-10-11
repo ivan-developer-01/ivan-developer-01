@@ -37,7 +37,7 @@
     <b>Show metrics</b>
   </summary>
 
-  ![metrics](github-metrics.svg)
+  <img src="github-metrics.svg" alt="metrics">
 </details>
 
 ---
