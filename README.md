@@ -51,3 +51,5 @@
 - I sometimes help others
 - I *know* English better than my native language (even stranger I can't speak English but know it well)
 - *...and so on...*
+
+<!-- I'm active!
