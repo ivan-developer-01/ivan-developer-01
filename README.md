@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I'm Ivan
+### I'm `<Dev name="Ivan" speciality="FullStack"/>`
 
 - 📜 I’m interested in FullStack, Linux and Desktop app development
 - 🌱 I’m currently learning FullStack and Linux on Skillfactory courses
