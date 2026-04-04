@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> I have moved most of my repositories to [Peter-developer01](https://github.com/Peter-developer01). All further activity will happen there, not here.  
+> Old README follows:
+
 ## Hi there 👋
 
 ### I'm `<Dev name="Ivan" speciality="FullStack" />`
@@ -13,7 +17,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=ivan-developer-01)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ivan-developer-01&theme=dark)](https://github.com/ryo-ma/github-profile-trophy/)
+[![trophy](https://github-profile-trophy-kannan.vercel.app/?username=ivan-developer-01&theme=dark)](https://github.com/ryo-ma/github-profile-trophy/)
 
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=ivan-developer-01&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
